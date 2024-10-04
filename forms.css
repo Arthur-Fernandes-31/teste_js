@@ -1,4 +1,10 @@
 fieldset{
-    width: 180px;
+    width: 190px;
     height: 200px;
+    margin-left: 40%;
+    margin-top: 10%;
+    background: rgb(187,27,84);
+    background: linear-gradient(90deg, rgba(187,27,84,1) 20%, rgba(194,39,149,1) 48%, rgba(136,0,255,1) 85%);
+    display: flex;
+    flex-flow: wrap column;
 }
